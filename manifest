@@ -1,0 +1,15 @@
+title=Xive Tv
+major_version=24
+minor_version=278
+build_version=839
+mm_icon_focus_hd=pkg:/locale/default/images/RokuLogoHD.jpg
+mm_icon_side_hd=pkg:/locale/default/images/RokuLogoHD.jpg
+mm_icon_focus_sd=pkg:/locale/default/images/RokuLogoSD.jpg
+mm_icon_side_sd=pkg:/locale/default/images/RokuLogoSD.jpg
+screensaver_private=1
+requires_audiometadata=1
+requires_mkv=1
+splash_screen_sd=pkg:/locale/default/images/RokuSplashSDV2.7.jpg
+splash_screen_hd=pkg:/locale/default/images/RokuSplashHDV2.7.jpg
+splash_color=#221f20
+splash_min_time=1
